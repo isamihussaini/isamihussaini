@@ -48,9 +48,9 @@ My job is to make that cost visible.
 ---
 
 ### Featured Project
-* [Olist Supply Chain Risk & Recovery Diagnostic](https://github.com/isamihussaini/Olist-Supply-Chain-Diagnostic)
-
-Analyzed 100k+ e-commerce orders to isolate **$1.35M in revenue at risk**, uncover regional bottlenecks, and expose seller complexity as a key driver of delivery delays.---
+* [Olist Supply Chain Risk & Recovery Diagnostic](https://github.com/isamihussaini/Olist-Supply-Chain-Diagnostic) 
+Analyzed 100k+ e-commerce orders to isolate **$1.35M in revenue at risk**, uncover regional bottlenecks, and expose seller complexity as a key driver of delivery delays.
+---
 
 ### 📫 Let's Connect!
 If you care about supply chain efficiency, operational visibility, or data that actually changes decisions, let's talk.
