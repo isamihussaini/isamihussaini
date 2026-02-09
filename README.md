@@ -48,8 +48,8 @@ My job is to make that cost visible.
 ---
 
 ### Featured Project
-🚀 **[Olist Supply Chain Risk & Recovery Diagnostic](https://github.com/isamihussaini/Olist-Supply-Chain-Diagnostic)** Analyzed 100k+ e-commerce orders to isolate **$1.35M in revenue at risk**, uncover regional bottlenecks, and expose seller complexity as a key driver of delivery delays.
-👉 [Click here to view the Full Project & Interactive Dashboards](https://github.com/isamihussaini/Olist-Supply-Chain-Diagnostic)
+🚀 **[Olist Supply Chain Risk & Recovery Diagnostic](https://github.com/isamihussaini/Olist-Supply-Chain-Diagnostic)** 
+Analyzed 100k+ e-commerce orders to isolate **$1.35m in revenue at risk, uncover regional bottlenecks, and expose seller complexity as a key driver of delivery delays.com
 ---
 
 ### 📫 Let's Connect!
